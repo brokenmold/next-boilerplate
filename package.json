@@ -1,0 +1,23 @@
+{
+    "name": "next-boilerplate",
+    "version": "0.1.0",
+    "description": "Bootstrapped Next.js Boilerplate",
+    "author": "Jason Glass",
+    "license": "MIT",
+    "scripts": {
+      "dev": "next -p 4180",
+      "build": "next build",
+      "start": "next start"
+    },
+    "dependencies": {
+      "@fortawesome/fontawesome-svg-core": "^1.2.22",
+      "@fortawesome/free-solid-svg-icons": "^5.10.2",
+      "@fortawesome/react-fontawesome": "^0.1.4",
+      "@zeit/next-sass": "^1.0.1",
+      "next": "^9.0.5",
+      "node-sass": "^4.12.0",
+      "react": "^16.9.0",
+      "react-dom": "^16.9.0",
+      "webpack": "^4.40.2"
+    }
+  }  

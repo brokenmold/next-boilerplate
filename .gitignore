@@ -1,6 +1,8 @@
+# Genral
 .DS_*
 *.log
 logs
 
+# Next Specific
 node_modules
 .next
