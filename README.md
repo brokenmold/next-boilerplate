@@ -2,6 +2,7 @@ NextJS Boilerplate
 =====================
 A barebones Next.JS boilerplate
 
+
 ## Installation
 `git clone https://github.com/brokenmold/next-start-test.git`
 
