@@ -10,4 +10,4 @@ A barebones Next.JS boilerplate
 
 ## Port
 Development port set to `4180` by default.
-Change this in package.json lock file.
+Change this in `package.json` lock file.
