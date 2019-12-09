@@ -1,6 +1,6 @@
 NextJS Boilerplate
 =====================
-A barebones Next.JS boilerplate
+A barebones NextJS boilerplate
 
 
 ## Installation
