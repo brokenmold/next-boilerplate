@@ -2,6 +2,11 @@ Next Boilerplate
 =====================
 A barebones NextJS boilerplate
 
+[![Build Status](https://travis-ci.com/brokenmold/next-boilerplate.svg?branch=master)](https://travis-ci.com/brokenmold/next-boilerplate)
+
+
+---
+
 
 ## Installation
 ```
