@@ -5,6 +5,8 @@ A barebones NextJS boilerplate
 
 ## Installation
 `git clone https://github.com/brokenmold/next-start-test.git`
+`cd next-start-test`
+`npm install`
 
 ## Use
 `npm run dev`
