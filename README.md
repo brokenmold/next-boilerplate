@@ -18,7 +18,7 @@ npm install
 ## Development
 `npm run dev`
 
-Development port set to `4180` by default.
+Development port set to `3000` by default.
 Change this in `package.json` lock file.
 
 ## Build
