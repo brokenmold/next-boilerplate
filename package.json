@@ -1,11 +1,14 @@
 {
   "name": "next-boilerplate",
-  "version": "0.1.0",
-  "description": "Bootstrapped Next.js Boilerplate",
+  "version": "0.1.1",
+  "description": "A barebones NextJS boilerplate",
   "author": "Jason Glass",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/brokenmold/next-boilerplate"
+  },
   "scripts": {
-    "dev": "next -p 4180",
+    "dev": "next -p 3000",
     "build": "next build",
     "start": "next start"
   },
