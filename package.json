@@ -7,6 +7,9 @@
   "repository": {
     "url": "https://github.com/brokenmold/next-boilerplate"
   },
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/" 
+  },
   "scripts": {
     "dev": "next -p 3000",
     "build": "next build",
