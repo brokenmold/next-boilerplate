@@ -2,7 +2,7 @@ import "./Header.scss"
 
 const Header = () => (
     <div className="Header">
-        (Header Here)
+        <h1>Next-Boilerplate</h1>
     </div>
 );
 

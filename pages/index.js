@@ -2,9 +2,14 @@ import Layout from '../components/_Layout';
 
 export default function Index() {
   return (
-    <div>
+    <wrapper>
+
       <Layout />
-      <p>Hello Next.js</p>
-    </div>
+
+      <div className="index">
+        <p>Hello Next.js</p>
+      </div>
+
+    </wrapper>
   );
 }
